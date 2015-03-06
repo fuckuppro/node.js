@@ -14,3 +14,6 @@ vasya.hello(petya);
 petya.hello(vasya);
 
 console.log(1);
+
+
+console.log(2);
